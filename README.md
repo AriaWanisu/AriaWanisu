@@ -10,7 +10,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=AriaWanisu&theme=onedark&column=7)]
 
 ## MY SKILLS
-[![My Skills](https://skillicons.dev/icons?i=js,ts,go,py,nodejs,express,html,css,bootstrap,tailwind,mongodb,mysql,react,angular,nextjs,discord,flask,graphql,vscode,github,ps&perline=21)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,ts,go,py,nodejs,express,html,css,bootstrap,tailwind,mongodb,mysql,react,angular,nextjs,discord,flask,graphql,vscode,github,ps&perline=21)]
 
 </div>
 
