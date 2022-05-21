@@ -3,11 +3,11 @@
 ## MY GITHUB STATS
 <div align = 'center'>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AriaWanisu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+[![](https://github-readme-stats.vercel.app/api?username=AriaWanisu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AriaWanisu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=AriaWanisu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AriaWanisu&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![](https://github-profile-trophy.vercel.app/?username=AriaWanisu&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## MY SKILLS
 [![My Skills](https://skillicons.dev/icons?i=js,ts,go,py,nodejs,express,html,css,bootstrap,tailwind,mongodb,mysql,react,angular,nextjs,discord,flask,graphql,vscode,github,ps&perline=21)](https://skillicons.dev)
